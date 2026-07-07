@@ -32,6 +32,7 @@
   ],
   "ignoreDependencies": [
     "@types/bun",
-    "@anthropic-ai/foundry-sdk"
+    "@anthropic-ai/foundry-sdk",
+    "google-auth-library"
   ]
 }
